@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://twitter.com/kuushgupta" target="blank"><img src="https://img.shields.io/twitter/follow/kuushgupta?logo=twitter&style=for-the-badge" alt="kuushgupta" /></a> </p>
 
-- 🔭 I’m currently working on [Meddico](https://github.com/Kushgupta16/Meddico)
+- 🔭 I’m currently working on [ TOTAL HEALTH VIEW](https://github.com/Kushgupta16/TOTAL_HEALTH_VIEW)
 
-- 🌱 I’m currently learning **ML, Back-end , Cloud Computing**
+- 🌱 I’m currently learning **AI, Back-end , Cloud Computing**
 
 - 📫 How to reach me **kuushgupta@gmail.com**
 
@@ -22,4 +22,4 @@
 
 
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kushgupta16&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-beige-ten.vercel.app?user=Kushgupta16&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
