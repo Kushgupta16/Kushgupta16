@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/kuushgupta" target="blank"><img src="https://img.shields.io/twitter/follow/kuushgupta?logo=twitter&style=for-the-badge" alt="kuushgupta" /></a> </p>
 
-- 🔭 I’m currently working on [ TOTAL HEALTH VIEW](https://github.com/Kushgupta16/TOTAL_HEALTH_VIEW)
+- 🔭 I’m currently working on [ Health-Insight-Assistant](https://github.com/Kushgupta16/Health-Insight-Assistant)
 
 - 🌱 I’m currently learning **AI, Back-end , Cloud Computing**
 
